@@ -4,14 +4,18 @@ This challenge was proposed at the Suzano - Python Developer bootcamp, to develo
 
 Final result:
 - Options menu:
-    ![menu](.\images\menu.png)
+  
+    ![menu](./images/menu.png)
 
 - Desposit:
-    ![deposit](.\images\deposit.png)
+  
+    ![deposit](./images/deposit.png)
 
 - Withdraw:
-    ![withdraw](.\images\withdraw.png)
+  
+    ![withdraw](./images/withdraw.png)
 
 - Statment:
-    ![statment](.\images\statement.png)
+  
+    ![statment](./images/statement.png)
 
